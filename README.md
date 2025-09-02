@@ -1,2 +1,3 @@
 # WebDesign
-Repo for MART341 Web Design Fall 2025
+
+This is my repository for my Intro to Web Design course. You can find my assignment folders inside. Thanks for visiting!
