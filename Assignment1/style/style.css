@@ -1,7 +1,7 @@
 h1 {
   padding: 35px;
   text-align: center;
-  background-color: snow;
+  background-color: lavender;
 }
 
 h2, h3 {
@@ -9,5 +9,10 @@ h2, h3 {
 }
 
 body {
-  background-color: powderblue;
+  background-color: mistyrose;
+}
+
+p {
+  max-width: 60%;
+  margin: 0 auto;
 }
