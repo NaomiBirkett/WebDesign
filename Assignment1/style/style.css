@@ -1,18 +1,38 @@
 h1 {
   padding: 35px;
   text-align: center;
-  background-color: lightcoral;
+  background-color: rgb(202,82,82,0.8);
 }
 
 h2, h3 {
   text-align: center;
+  color:rgb(207,16,16)
+}
+
+h3 {
+  margin-top: 30px;
+  margin-bottom: 10px;
+  color:whitesmoke
 }
 
 body {
-  background-color: lightsteelblue;
+  background-image: url('../images/SixofCrows-1.jpg');
+  background-position: top;
+  background-color: rgb(123,103,103);
 }
 
 p {
+  padding: 20px;
   max-width: 60%;
   margin: 0 auto;
+  background-color: black;
+  color: whitesmoke
+}
+
+hr {
+  margin-top: 20px;
+  max-width: 10%;
+  border: none;
+  background-color: rgb(207,16,16);
+  height: 2px;
 }
