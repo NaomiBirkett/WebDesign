@@ -10,23 +10,26 @@ h2, h3 {
 }
 
 h3 {
-  margin-top: 30px;
   margin-bottom: 10px;
   color:whitesmoke
+}
+
+div {
+  padding: 5px;
+  max-width: 60%;
+  margin: 0 auto;
+  background-color: black;
+  color: whitesmoke
+}
+
+p {
+    margin-bottom: 20px;
 }
 
 body {
   background-image: url('../images/SixofCrows-1.jpg');
   background-position: top;
   background-color: rgb(123,103,103);
-}
-
-p {
-  padding: 20px;
-  max-width: 60%;
-  margin: 0 auto;
-  background-color: black;
-  color: whitesmoke
 }
 
 hr {
