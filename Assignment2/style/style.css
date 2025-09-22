@@ -1,25 +1,44 @@
+li {
+  list-style-type: none;
+  color: #fb2d2d;
+  display: inline-block;
+  font-family: Georgia, serif;
+}
+
+nav {
+  text-align: center;
+  background-color: #fb2d2d99;
+}
+
+header {
+  border: 1px solid #000000;
+  padding: 35px;
+  text-align: center;
+  background-color: #4f494966;
+}
+
 h1 {
   padding: 35px;
   text-align: center;
-  background-color: rgb(202,82,82,0.8);
+  background-color: #ca5252cc;
 }
 
 h2, h3 {
   text-align: center;
-  color:rgb(251, 45, 45)
+  color:#fb2d2d
 }
 
 h3 {
   margin-bottom: 10px;
-  color:whitesmoke
+  color:#f5f5f5
 }
 
 div {
   padding: 5px;
   max-width: 60%;
   margin: 0 auto;
-  background-color: black;
-  color: whitesmoke
+  background-color: #000000;
+  color:#f5f5f5
 }
 
 p {
@@ -29,13 +48,18 @@ p {
 body {
   background-image: url('../images/SixofCrows-1.jpg');
   background-position: top;
-  background-color: rgb(123,103,103);
+  background-color:#7b6767;
 }
 
 hr {
   margin-top: 20px;
   max-width: 10%;
   border: none;
-  background-color: rgb(207,16,16);
+  background-color: #cf1010;
   height: 2px;
+}
+
+footer {
+  text-align: center;
+  background-color: #fb2d2d99;
 }
