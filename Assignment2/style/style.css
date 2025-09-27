@@ -1,8 +1,8 @@
 li {
-  list-style-type: none;
-  color: #fb2d2d;
-  display: inline-block;
+  list-style-type: " * ";
+  color: #e41010;
   font-family: Georgia, serif;
+  text-align: left;
 }
 
 nav {
@@ -46,6 +46,7 @@ div {
 
 p {
     margin-bottom: 20px;
+    text-align: center;
 }
 
 body {
