@@ -12,16 +12,18 @@ nav {
 }
 
 header {
-  border: 1px solid #000000;
-  padding: 35px;
+  max-width: 60%;
+  padding: 5px;
+  margin: 0 auto;
   text-align: center;
-  background-color: #4f494966;
+  background-color: none;
 }
 
 h1 {
   padding: 35px;
   text-align: center;
   background-color: #ca5252cc;
+  border: 5px solid #000000;
 }
 
 h2, h3 {
