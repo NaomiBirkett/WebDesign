@@ -1,0 +1,5 @@
+# Module 3
+
+## Assignment Reflection
+
+I found assignment 3 a little confusing just communication-wise. I updated my assignment with the new gallery and favorites pages mentioned in the module 3 lessons, but it wasn't super clear if I was supposed to keep my "about" and "info" pages from assignment 2 as well. I saw some other students were doing so, so I added those back in just in case. I noticed some students aren't doing a separate gallery page at all, so I am not sure if I just misinterpreted the lessons somewhere or not. For finishing up the assignment, the only feedback I received from the discussion was that it was good, so I wasn't sure what else to add or modify. I'm fairly happy with how the site turned out overall. I found trying to make the video fit in with everything else a little odd, but I think it ended up working alright in the end. Hopefully I've completed the assignment sufficiently!
