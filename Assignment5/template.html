@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="A personal website designed to showcase work, ideas, and personality.">
+    <link rel="icon" type="image/x-icon" href="images/favicon.ico">
+    <title>The title of the browser tab</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="style/style.css">
+  </head>
+
+  <body>
+
+  <div class="page-wrapper">
+
+   <nav>
+    <nav class="navbar navbar-expand-lg sticky-top bg-dark" data-bs-theme="dark">
+     <div class="container-fluid">
+      <a class="navbar-brand" href="index.html">🌼</a>
+
+      <button class="navbar-toggler ms-auto" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+      </button>
+
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav mx-auto mb-2 mb-lg-0">
+
+         <li class="nav-item">
+          <a class="nav-link active" aria-current="page" href="index.html">Home</a>
+         </li>
+
+         <li class="nav-item">
+          <a class="nav-link" href="flexbox.html">Flexbox Layout</a>
+         </li>
+
+         <li class="nav-item">
+          <a class="nav-link" href="grid.html">Grid Layout</a>
+         </li> 
+
+         <li class="nav-item">
+          <a class="nav-link" href="blog-post.html">Blog Post</a>
+         </li> 
+
+      </ul>
+
+    </div>
+  </div>
+
+</nav>
+</nav>
+
+   <header>
+    <h1>Visible Title</h1>
+   </header>
+
+   <main>
+
+    <div class="blog-preview">
+      <img src="images/3BREPzX.jpg" alt="A fantasy image of a green forest beneath a purple sky where two planets can be seen. In the center, a gateway into another world appears."> 
+
+      <div blog-text>
+        <p class="date">October 31, 2025</p>
+
+        <h2 class="post-title">Designing with Flexbox: Simplicity Through Structure</h2>
+
+        <p class="post-preview">
+            Flexbox is one of the most powerful tools in modern web design, allowing designers to align, space, and center content
+            with ease. In this post, we’ll explore how Flexbox simplifies layouts that once required endless floats and margins—and
+            how a few key properties can make your designs more fluid and responsive.
+        </p>
+
+        <a href="blog-post.html" class="read-more">Read More</a>
+
+        <div class="card-section">
+    <div class="card">
+     <img src="images/window.jpg" alt="An image of a cozy reading room with a comfortable orange armchair sitting in front of a large round window flanked by bookshelves on either side. Outside the window, a fall garden scene is visible."> 
+
+     <h3>Reading nook</h3>
+
+     <p>A lovely way to spend a fall day.</p>
+
+    </div>
+
+    <div class="card">
+     <img src="images/window.jpg" alt="An image of a cozy reading room with a comfortable orange armchair sitting in front of a large round window flanked by bookshelves on either side. Outside the window, a fall garden scene is visible."> 
+
+     <h3>Reading nook</h3>
+
+     <p>A lovely way to spend a fall day.</p>
+
+    </div>
+  </div>
+  
+      </div>
+    </div>
+
+
+
+
+   </main>
+
+   <footer>
+    <!-- Your footer content goes here -->
+    <p>&copy; <span id="year"></span> Naomi Birkett</p>
+
+    <script>
+    document.getElementById("year").textContent = new Date().getFullYear();
+    </script>
+
+   </footer>
+
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+
+  </body>
+
+</html>
