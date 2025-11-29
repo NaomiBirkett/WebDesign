@@ -1,5 +1,5 @@
-# Module 4
+# Module 5
 
 ## Assignment Reflection
 
-I like how Flexbox and Grid allow me to align elements on my page in ways that look nice and organized. I think using these tools will make it easier to make my pages look the way I want them to. I really liked how we used Flexbox to create the blog previews, so I think I preferred the Flexbox for this project, but the Grid layout was really impactful for creating an image gallery, so I think which I prefer so far just depends on what I'm trying to do.
+For my recreated component, I tried to make something similar to the card links that are used on the website Roll20. I edited my existing card component to add a link (it currently links back to my homepage, but in regular use, I'd create a page based on what's in the card and link it there), and added a drop shadow to be more similar to what Roll20 uses. I didn't like the sharp edges on the card images that Roll20 uses, so I kept the rounded edges in my component and also used colors that better suit the color pallet of my current website. 
